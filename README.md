@@ -7,4 +7,4 @@ Graveyard bot is built in C# through asp.net. This is so that graveyard bot can 
 # Development Team
 You can join the development team discord [here](https://discord.gg/ZU4Zs9r4Av).
 
-This project was started, and is maintained by Redforce04#4o91.
+This project was started, and is maintained by Redforce04#4091.
